@@ -1,0 +1,56 @@
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\bin\Debug\MIRAEPRO.exe.config
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\bin\Debug\MIRAEPRO.exe
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\bin\Debug\MIRAEPRO.pdb
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Properties.Resources.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.MainForm.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.exe
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.pdb
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.LoginView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.SetupPop.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.StudentSelectPop.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.RegmemberPop.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.MainMenuView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ChoolSeokView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ScoreView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.HakGeupView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ScheduleView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.PayView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.MessageView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.WebView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.TempView.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.ChooldatePop.resources
+C:\Users\KB\Desktop\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ChoolSeokCalView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\bin\Debug\MIRAEPRO.exe.config
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\bin\Debug\MIRAEPRO.exe
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\bin\Debug\MIRAEPRO.pdb
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\Lib.Frame.MasterView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Properties.Resources.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.MainForm.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.RegMemberPop.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.SetupPop.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.StudentSelectPop.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.Pop.ChooldatePop.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ChoolSeokView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.HakGeupView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.LoginView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.MainMenuView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.MessageView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ChoolSeokCalView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.PayView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.TempView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ScoreView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.ScheduleView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.Windows.View.WebView.resources
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.exe
+C:\Users\KB\Desktop\c#oracle 프로젝트\MIRAEPRO\MIRAEPRO\obj\Debug\MIRAEPRO.pdb
